@@ -4,5 +4,10 @@ tensorflow
 nibabel
 numpy
 pudb
+<<<<<<< HEAD
 conda
 
+=======
+# conda
+# cuDNN
+>>>>>>> origin/main
